@@ -2,6 +2,8 @@
 
 _Forkify_ is a recipe application with custom recipe upload.
 
+![Demo](./src/img/forkifyDemoGif.gif)
+
 ## Features
 
 - Search for recipes that are fetched from an external API
